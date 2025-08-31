@@ -17,3 +17,6 @@ The backend for the Airbnb Clone project is designed to be a robust, scalable, a
 ​Celery and Redis: Used for handling asynchronous tasks (like sending notifications) and caching, respectively.
 ​Docker and CI/CD Pipelines: Tools for containerization, automated testing, and deployment to ensure a consistent and reliable environment.
 ​The development team is structured with specialized roles to handle different aspects of the project, including a Backend Developer, Database Administrator, DevOps Engineer, and a QA Engineer. 
+
+Database Design
+
