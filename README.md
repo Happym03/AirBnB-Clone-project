@@ -19,4 +19,6 @@ The backend for the Airbnb Clone project is designed to be a robust, scalable, a
 ​The development team is structured with specialized roles to handle different aspects of the project, including a Backend Developer, Database Administrator, DevOps Engineer, and a QA Engineer. 
 
 Database Design
+Feature Breakdown
+API Security Overview
 
